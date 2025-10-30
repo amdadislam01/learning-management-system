@@ -49,7 +49,7 @@ learning-management-system/
 │   └── styles/            # Tailwind/Bootstrap custom styles
 ├── package.json
 ├── README.md
-└── tailwind.config.js     # Tailwind configuration
+└── vite.config.js     # Tailwind configuration
 ```
 
 ---
